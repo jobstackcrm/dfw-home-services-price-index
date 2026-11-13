@@ -1,0 +1,16 @@
+trade,service,range_low_usd,range_high_usd,unit,planning_midpoint,scope_note,metro,edition,source
+Electrical,Electrician hourly rate,60,120,USD/hr,,Suburban DFW (McKinney Frisco Plano) may run $85-$125/hr,Dallas-Fort Worth TX,Fall 2026,https://my.jobstackcrm.com/research/dfw-home-services-price-index
+Electrical,Service call / first hour,100,200,USD,150,First hour commonly priced above the standard hourly rate,Dallas-Fort Worth TX,Fall 2026,https://my.jobstackcrm.com/research/dfw-home-services-price-index
+Electrical,Panel upgrade to 200A,1250,2800,USD,1650,Single-family planning range; service/meter work can extend full range to $850-$3800; 400A separately scoped,Dallas-Fort Worth TX,Fall 2026,https://my.jobstackcrm.com/research/dfw-home-services-price-index
+Electrical,Level 2 EV charger installation,700,1800,USD,1250,Assumes panel in or near garage; long runs trenching permits or capacity upgrades raise scope,Dallas-Fort Worth TX,Fall 2026,https://my.jobstackcrm.com/research/dfw-home-services-price-index
+Plumbing,Plumber hourly rate,85,135,USD/hr,,Emergency and after-hours work commonly reaches $150+/hr,Dallas-Fort Worth TX,Fall 2026,https://my.jobstackcrm.com/research/dfw-home-services-price-index
+Plumbing,Water-heater repair,200,900,USD,540,Thermostat or element repairs typically at the lower end,Dallas-Fort Worth TX,Fall 2026,https://my.jobstackcrm.com/research/dfw-home-services-price-index
+Plumbing,Tank water-heater replacement (40-50 gal),1050,2000,USD,1490,Installed like-for-like swap; labor commonly about half the total,Dallas-Fort Worth TX,Fall 2026,https://my.jobstackcrm.com/research/dfw-home-services-price-index
+Plumbing,Tankless water-heater installation,1900,4400,USD,3000,Gas-line or electrical upgrades are common scope changes,Dallas-Fort Worth TX,Fall 2026,https://my.jobstackcrm.com/research/dfw-home-services-price-index
+Plumbing,Emergency plumbing visit,250,800,USD,,Diagnosis plus initial repair; extensive work can add $500-$3000+,Dallas-Fort Worth TX,Fall 2026,https://my.jobstackcrm.com/research/dfw-home-services-price-index
+HVAC,Diagnostic / service call,65,150,USD,,Often credited toward repair; confirm each provider policy,Dallas-Fort Worth TX,Fall 2026,https://my.jobstackcrm.com/research/dfw-home-services-price-index
+HVAC,AC tune-up,70,205,USD,,Best planned before the spring peak,Dallas-Fort Worth TX,Fall 2026,https://my.jobstackcrm.com/research/dfw-home-services-price-index
+HVAC,AC repair,150,1150,USD,350,Capacitor or contactor work typically lower; compressor issues can be much higher,Dallas-Fort Worth TX,Fall 2026,https://my.jobstackcrm.com/research/dfw-home-services-price-index
+HVAC,After-hours surcharge,100,300,USD,,Usually added on top of standard repair pricing,Dallas-Fort Worth TX,Fall 2026,https://my.jobstackcrm.com/research/dfw-home-services-price-index
+HVAC,Central AC replacement (condenser + coil),4800,10500,USD,,Tonnage and SEER2 efficiency materially change scope,Dallas-Fort Worth TX,Fall 2026,https://my.jobstackcrm.com/research/dfw-home-services-price-index
+HVAC,Full system replacement (AC + furnace),8300,16000,USD,10000-11000,Three-ton split system is the reference case,Dallas-Fort Worth TX,Fall 2026,https://my.jobstackcrm.com/research/dfw-home-services-price-index
